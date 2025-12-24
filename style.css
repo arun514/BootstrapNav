@@ -8,3 +8,14 @@ background-image: url(./Coffeewithchill.jpg);
 background-repeat: no-repeat;
 }
 
+.addTocart{
+  display: flex;
+  padding: 20px;
+  justify-items: center;
+  margin-bottom: 60px;
+}
+
+
+.para1{
+margin-bottom: 110px;
+}
