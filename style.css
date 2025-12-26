@@ -3,19 +3,18 @@
   padding: 0;
 }
 
-body{
-background-image: url(./Coffeewithchill.jpg);
-background-repeat: no-repeat;
+body {
+  background-image: url(./Coffeewithchill.jpg);
+  background-repeat: no-repeat;
 }
 
-.addTocart{
+.addTocart {
   display: flex;
-  padding: 20px;
+  padding: 10px;
   justify-items: center;
   margin-bottom: 60px;
 }
 
-
-.para1{
-margin-bottom: 110px;
+.para1 {
+  margin-bottom: 110px;
 }
